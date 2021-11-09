@@ -129,7 +129,7 @@ function decimalInputVal(e) {
 }
 
 deleteNum.addEventListener("click", (e) => {
-  decimalInputVal(e);
+  deleteInputVal(e);
 });
 
 function deleteInputVal() {
